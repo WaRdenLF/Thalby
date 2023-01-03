@@ -1,0 +1,130 @@
+.circle__text{
+   padding-top: 190px;
+}
+
+.circle__h{
+    font-family:var(--rr);
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 42px;
+    text-align: center;
+
+}
+
+.circle__d{
+    font-family:var(--rr);
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 42px;
+    text-align: center;
+    margin-bottom: 69px;
+}
+
+.round__wrap{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 111px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.rounds__wrap{
+    display: flex;
+    padding-bottom: 163px;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.round__two{
+    display: flex;
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    border-radius: 35px;
+    background:#33D3BC;
+    margin-left: 293px;
+    margin-right: 293px;
+}
+
+
+.round__three{
+    display: flex;
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    border-radius: 35px;
+    background: #18A5C6;
+
+}
+.round__four{
+    display: flex;
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    border-radius: 35px;
+    background: #D38F62;
+
+}
+
+.round__five{
+    display: flex;
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    border-radius: 35px;
+    background: #F94C43;
+    margin-left: 293px;
+    margin-right: 293px;
+}
+
+.round__six{
+    display: flex;
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    border-radius: 35px;
+    background: #D399FF;
+
+
+}
+
+.circle__two{
+    text-align: center;
+}
+.round{
+    display: flex;
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    border-radius: 35px;
+    background: #21F7EC;
+    
+}
+
+.circle__c{
+    font-family: var(--rb);
+font-size: 30px;
+font-weight: 700;
+line-height: 35px;
+margin-top: 26px;
+
+}
+
+.circle__e{
+    font-family: var(--rb);
+font-size: 30px;
+font-weight: 700;
+line-height: 35px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.circle__l{
+    font-family: var(--rb);
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 35px;
+    margin-top: 26px;
+    text-align: center;
+}

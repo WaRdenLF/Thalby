@@ -1,0 +1,99 @@
+.seller{
+    padding-top: 60px;
+}
+
+.rs{
+    font-family: var(--rb);
+font-size: 36px;
+font-weight: 700;
+line-height: 42px;
+letter-spacing: 0em;
+text-align: center;
+margin-bottom: 52px;
+
+}
+.desc__h{
+    font-family: var(--rb);
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 42px;
+    text-align: center;
+    margin-bottom: 27px;
+
+}
+
+.desc__p{
+    font-family: var(--rr);
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 23px;
+    text-align: center;
+    max-width: 632px;
+    margin: 0 auto;
+    padding-bottom: 47px;
+
+}
+
+.desc__t{
+    font-family: var(--rr);
+    font-size: 20px;
+   font-weight: 400;
+   line-height: 23px;
+   text-align: center;
+
+}
+
+.best{
+    padding: 88px 0 248px;
+}
+
+
+
+.person__wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+}
+
+.per1{
+    margin-bottom: 27px;
+}
+.card__h{
+    display: flex ;
+    flex-direction: column ;
+    justify-content: center;
+    align-items: center;
+}
+
+.describe{
+    font-family: var(--rb);
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 20px;
+    text-align: center;
+    max-width: 156px;
+    margin-bottom: 17px;
+
+}
+
+.price{
+    font-family: var(--rr) ;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.add{
+    font-family: var(--rb);
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 20px;
+    text-align: center;
+    border-bottom: 1px solid black;
+
+}
+
